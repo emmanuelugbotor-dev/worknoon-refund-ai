@@ -1,0 +1,6 @@
+@import "tailwindcss";
+:root { color-scheme: dark; }
+* { box-sizing:border-box; }
+body { margin:0; background:#07111f; color:#e8eef7; font-family:Arial,Helvetica,sans-serif; }
+button,input,textarea,select { font:inherit; }
+.card { background:rgba(15,28,47,.9); border:1px solid #20334d; border-radius:18px; }
